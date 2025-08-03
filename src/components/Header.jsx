@@ -33,9 +33,9 @@ const Header = () => {
   ];
 
   const socialLinks = [
-    { icon: <FaGithub />, href: 'https://github.com/amit-kumar-3b6820195' },
-    { icon: <FaLinkedin />, href: 'https://linkedin.com/in/amit-kumar-3b6820195' },
-    { icon: <FaTwitter />, href: 'https://twitter.com/amitlthax0r' }
+    { icon: <FaGithub />, href: 'https://github.com/amitlttwo' },
+    { icon: <FaLinkedin />, href: 'https://www.linkedin.com/in/amitbiswas-cybersec/' },
+    { icon: <FaTwitter />, href: 'https://x.com/Amitlt2' }
   ];
 
   return (
