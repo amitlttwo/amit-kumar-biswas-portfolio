@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amit-kumar-biswas-portfolio/static/css/main.86534ea1.css",
+    "main.js": "/amit-kumar-biswas-portfolio/static/js/main.0b3e0bc2.js",
+    "static/js/453.3f36d9c3.chunk.js": "/amit-kumar-biswas-portfolio/static/js/453.3f36d9c3.chunk.js",
+    "index.html": "/amit-kumar-biswas-portfolio/index.html",
+    "main.86534ea1.css.map": "/amit-kumar-biswas-portfolio/static/css/main.86534ea1.css.map",
+    "main.0b3e0bc2.js.map": "/amit-kumar-biswas-portfolio/static/js/main.0b3e0bc2.js.map",
+    "453.3f36d9c3.chunk.js.map": "/amit-kumar-biswas-portfolio/static/js/453.3f36d9c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86534ea1.css",
+    "static/js/main.0b3e0bc2.js"
+  ]
+}
